@@ -1,0 +1,12 @@
+# .gitignore
+
+# Rezultate de compilare
+build/
+*.hex
+*.o
+
+# Jurnale
+*.log
+
+# Setari personale ale editorului
+.vscode/
