@@ -10,3 +10,6 @@ build/
 
 # Setari personale ale editorului
 .vscode/
+
+# Secrete
+secrets.txt
