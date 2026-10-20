@@ -17,3 +17,5 @@ Autor laborator: Robert
 * SERIAL_BAUD: viteza portului serial
 * LED_PIN: LED de stare
 * BUTTON_PIN: buton de control
+
+Comunicatie seriala la 19200 baud.
