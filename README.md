@@ -18,8 +18,4 @@ Autor laborator: Robert
 * LED_PIN: LED de stare
 * BUTTON_PIN: buton de control
 
-<<<<<<< HEAD
 Comunicatie seriala la 19200 baud.
-=======
-Comunicatie seriala la 115200 baud
->>>>>>> feature/uart-rapid
