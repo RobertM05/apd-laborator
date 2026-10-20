@@ -2,7 +2,7 @@
 #define CONFIG_H
 
 #define SENSOR_PIN A0
-#define SAMPLE_PERIOD_MS 100
+#define SAMPLE_PERIOD_MS 1000 // compromis: 1s
 #define SERIAL_BAUD 9600
 #define LED_PIN 13
 #define BUTTON_PIN 2
