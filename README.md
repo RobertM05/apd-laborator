@@ -9,3 +9,11 @@ Nod de achiziție a temperaturii bazat pe Arduino Uno.
 ## Note - Parolele si cheile de acces nu trebuie sa ajunga niciodata intr-un repository chiar daca este privat deoarece pot fi exploatate de persoane neautorizate,creand vulnerabilitati.
 Platformă: Arduino Uno R3 (ATmega328P)
 Autor laborator: Robert
+
+
+## Parametri
+* SENSOR_PIN: intrarea analogica a senzorului
+* SAMPLE_PERIOD_MS: perioada de esantionare (ms)
+* SERIAL_BAUD: viteza portului serial
+* LED_PIN: LED de stare
+* BUTTON_PIN: buton de control
