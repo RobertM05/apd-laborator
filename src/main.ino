@@ -1,5 +1,9 @@
 #include "config.h"
 
+float convertAdcToVoltage(int rawAdc) {
+    return (rawAdc * 5.0f) / 1023.0f;
+}
+
 void setup() {
     Serial.begin(SERIAL_BAUD);
 }
